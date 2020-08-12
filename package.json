@@ -1,0 +1,22 @@
+{
+  "name": "survey-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrobert444/Survey-Dealer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrobert444/Survey-Dealer/issues"
+  },
+  "homepage": "https://github.com/nrobert444/Survey-Dealer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
